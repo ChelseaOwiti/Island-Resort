@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  font-size: 60px;
+  font-style: oblique;
+}
+p{
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
+ul{
+  font-family: fantasy;
+  font-size: 60px;
+  text-align: center
+  
+}
+img{
+  text-align: center;
+
+}
+.intrpicture{
+  text-align: center;
+}
